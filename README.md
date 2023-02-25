@@ -18,7 +18,9 @@
 - 先請使用者輸入TargetPrefix(不需要輸入0x，此Program會自動幫使用者添加上去)
 - 輸入完成後，開始尋找符合TargetPrefix的Address，成功搜尋到後印出Find it!!!，並回傳助記詞，和地址
 - 印出符合TargetPrefix的助記詞和地址
-
+## 執行方式
+- 可以直接Download Zip file，即可直接執行
+- 或是使用311551185_Lab2.js的code，並把packge安裝好，也可以執行
 ## 需要安裝的packge
 ![](https://i.imgur.com/ueYtS3I.png)
 npm install bip39
